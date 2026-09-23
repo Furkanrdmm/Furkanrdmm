@@ -9,7 +9,6 @@
 Kırıkkale Üniversitesi Bilgisayar Mühendisliği mezunuyum, şu an Gazi Üniversitesi'nde Bilgisayar Mühendisliği yüksek lisansı yapıyorum. Backend ağırlıklı full-stack web geliştirme üzerine çalışıyorum.
 
 - 🎓 Gazi Üniversitesi, Bilgisayar Mühendisliği (Yüksek Lisans)
-- 🌱 Şu an öğreniyorum: **TypeScript, PostgreSQL, Docker**
 - 📍 Ankara, Türkiye
 
 ### 🛠 Teknolojiler
